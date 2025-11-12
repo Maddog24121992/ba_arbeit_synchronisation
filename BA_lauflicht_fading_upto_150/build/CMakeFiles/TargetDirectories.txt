@@ -1,0 +1,2 @@
+/home/maddog/Arduino/BA_lauflicht_fading_upto_150/build/CMakeFiles/edit_cache.dir
+/home/maddog/Arduino/BA_lauflicht_fading_upto_150/build/CMakeFiles/rebuild_cache.dir
